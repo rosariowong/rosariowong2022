@@ -589,7 +589,7 @@ label #sign-one, label #sign-two{
 	
 	/**ABOUT PAGE**/
 	.container-about {
-		padding: 20px;
+		padding: 10%;
 	}
 	
 	.about-imageright {
@@ -599,16 +599,7 @@ label #sign-one, label #sign-two{
 	.about-imageleft {
 		max-width: 100%
 	}
-	
-	.about-imagerow {
-		display: block;
-	}
-	
-	.image-row {
-		width: 100%;
-		margin: 10px 0;
-	}
-	
+
 	.cv-content li, .cv-endcontent li {
 		margin-left: 30px;
 	}
